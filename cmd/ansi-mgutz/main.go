@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/mattn/go-colorable"
 	"github.com/pschlump/ansi"
+	"github.com/pschlump/go-colorable"
 )
 
 func main() {

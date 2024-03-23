@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	colorable "github.com/mattn/go-colorable"
+	colorable "github.com/pschlump/go-colorable"
 )
 
 // PrintStyles prints all style combinations to the terminal.
